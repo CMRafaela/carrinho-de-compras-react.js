@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "iphone",
+        "price": 3069,
+        "imgUrl": "imgs/iphone.png"
+    },
+    {
+        "id": 2,
+        "name": "motorola",
+        "price": 1169,
+        "imgUrl": "imgs/motorola.png"
+    },
+    {
+        "id": 3,
+        "name": "xiaomi",
+        "price": 1499,
+        "imgUrl": "imgs/xiaomi.png"
+    },
+    {
+        "id": 4,
+        "name": "sansung",
+        "price": 2569,
+        "imgUrl": "imgs/sansung.png"
+    }
+]
